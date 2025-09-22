@@ -5,7 +5,7 @@ public class Category {
 	private long id;
 	private String name;
 	
-	public long getId(long id) {	
+	public long getId() {	
 		return id;
 	}
 	public void setId(long id) {

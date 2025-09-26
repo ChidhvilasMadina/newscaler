@@ -46,8 +46,6 @@ public class Day10_SpecialIndex {
 		
 
 	}
-
-	Please reach the station at least ONE HOUR before departure.
 	
 
 }
